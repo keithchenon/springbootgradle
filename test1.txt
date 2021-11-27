@@ -1,0 +1,21 @@
+ Volume in drive C is OS
+ Volume Serial Number is C045-D21C
+
+ Directory of C:\test\demo
+
+11/26/2021  09:16 PM    <DIR>          .
+11/26/2021  09:16 PM    <DIR>          ..
+11/14/2021  12:00 AM               444 .gitignore
+11/13/2021  07:07 PM    <DIR>          .gradle
+11/22/2021  11:01 PM    <DIR>          .idea
+11/14/2021  12:41 PM    <DIR>          build
+11/15/2021  07:59 AM               805 build.gradle
+11/14/2021  12:00 AM    <DIR>          gradle
+11/14/2021  12:00 AM             8,070 gradlew
+11/14/2021  12:00 AM             2,763 gradlew.bat
+11/14/2021  12:00 AM             1,236 HELP.md
+11/14/2021  12:00 AM                26 settings.gradle
+11/14/2021  12:00 AM    <DIR>          src
+11/26/2021  09:15 PM                 0 test1.txt
+               7 File(s)         13,344 bytes
+               7 Dir(s)  119,067,639,808 bytes free
